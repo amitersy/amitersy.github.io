@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://amitersy.github.io/sitemap.html.gz
+Sitemap: https://amitersy.github.io/app/sitemap.html.gz
+Sitemap: https://amitersy.github.io/assets/sitemap.html.gz
+Sitemap: https://amitersy.github.io/css/sitemap.html.gz
+Sitemap: https://amitersy.github.io/includes/sitemap.html.gz
+Sitemap: https://amitersy.github.io/item/sitemap.html.gz
+Sitemap: https://amitersy.github.io/src/sitemap.html.gz
